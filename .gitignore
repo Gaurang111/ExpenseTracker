@@ -1,0 +1,7 @@
+.env
+.idea
+GoogleConnect.py
+cred.json
+.gitignore
+/venv
+/data
